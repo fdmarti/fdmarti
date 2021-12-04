@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Martinez
 - 👀 I’m interested in learn everything if it's possible and help others in what i can!
-- 🌱 I’m currently learning Vue .js and Firestore
+- 🌱 I’m currently learning Vue .js and Node Js
 - 💞️ I’m looking to collaborate on connect everyone and make life easier.
 - 🎓 I studied the Web Development at the UNLaM.
 - 💼 Working in web development project for the city government of Buenos Aires.
