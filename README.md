@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue .js and Node Js
 - 💞️ I’m looking to collaborate on connect everyone and make life easier.
 - 🎓 I studied the Web Development at the UNLaM.
-- 💼 Working in web development project for the city government of Buenos Aires.
+- 💼 Working as a Front-end developer in Viseven
 
 <!---
 fdmarti/fdmarti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
